@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratório de Informatica\ex 13\ex 13\Source.cpp(18,20): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\crist\OneDrive\Área de Trabalho\Laboratório de Informatica\ex 13\ex 13\Source.cpp(18,20): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  ex 13.vcxproj -> C:\Users\crist\OneDrive\Área de Trabalho\Laboratório de Informatica\ex 13\Debug\ex 13.exe
